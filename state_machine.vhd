@@ -1,6 +1,6 @@
 -- ------------------------------------------------
 -- Header information
--- going to change this file on usb stike then replace the old file on the git repo on j drive
+-- going to change this file on usb stick then replace the old file on the git repo on j drive
 -- then push to github
 -- ------------------------------------------------
 
