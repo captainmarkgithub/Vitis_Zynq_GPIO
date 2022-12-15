@@ -1,6 +1,7 @@
 -- ------------------------------------------------
 -- Header information
--- trying to add to github vitis_zynq_gpio repo
+-- going to change this file on usb stike then replace the old file on the git repo on j drive
+-- then push to github
 -- ------------------------------------------------
 
 library IEEE;
