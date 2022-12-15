@@ -1,6 +1,6 @@
 -- ------------------------------------------------
 -- Header information
--- try to add to github
+-- trying to add to github vitis_zynq_gpio repo
 -- ------------------------------------------------
 
 library IEEE;
